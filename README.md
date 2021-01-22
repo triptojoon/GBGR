@@ -1,2 +1,2 @@
-# Pyree
-Repository for Pyree
+# Ggobugi
+Repository for Ggobugi
