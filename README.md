@@ -1,2 +1,2 @@
-# Ggobugi
-Repository for Ggobugi
+# GRGR
+Repository for GBGR(GgobugiR)
